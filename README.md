@@ -10,4 +10,5 @@ name | type | default | description
 height | px | 30px | y-size for lens
 width | px | 30px | x-size for lens
 zoom | boolean | false | 
+mooved | boolean | false | 
 
